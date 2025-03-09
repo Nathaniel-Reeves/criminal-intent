@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1,
+        "title": "The Big Lebowski",
+        "details": "Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink white Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adultery, and a kidnapped trophy wife.",
+        "timestamp": "1998-03-06T05:00:00.000Z",
+        "solved": false,
+        "image_pointer": "the_big_lebowski.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Inception",
+        "details": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+        "timestamp": "2010-07-16T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "inception.jpg"
+    },
+    {
+        "id": 3,
+        "title": "The Matrix",
+        "details": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "timestamp": "1999-03-31T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "the_matrix.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Fight Club",
+        "details": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "timestamp": "1999-10-15T05:00:00.000Z",
+        "solved": false,
+        "image_pointer": "fight_club.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Pulp Fiction",
+        "details": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "timestamp": "1994-10-14T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "pulp_fiction.jpg"
+    },
+    {
+        "id": 6,
+        "title": "The Dark Knight",
+        "details": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "timestamp": "2008-07-18T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "the_dark_knight.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Inception",
+        "details": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+        "timestamp": "2010-07-16T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "inception.jpg"
+    },
+    {
+        "id": 8,
+        "title": "The Matrix",
+        "details": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "timestamp": "1999-03-31T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "the_matrix.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Fight Club",
+        "details": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "timestamp": "1999-10-15T05:00:00.000Z",
+        "solved": false,
+        "image_pointer": "fight_club.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Pulp Fiction",
+        "details": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "timestamp": "1994-10-14T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "pulp_fiction.jpg"
+    },
+    {
+        "id": 11,
+        "title": "The Dark Knight",
+        "details": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "timestamp": "2008-07-18T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "the_dark_knight.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Inception",
+        "details": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+        "timestamp": "2010-07-16T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "inception.jpg"
+    },
+    {
+        "id": 13,
+        "title": "The Matrix",
+        "details": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "timestamp": "1999-03-31T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "the_matrix.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Fight Club",
+        "details": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "timestamp": "1999-10-15T05:00:00.000Z",
+        "solved": false,
+        "image_pointer": "fight_club.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Pulp Fiction",
+        "details": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "timestamp": "1994-10-14T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "pulp_fiction.jpg"
+    },
+    {
+        "id": 16,
+        "title": "The Dark Knight",
+        "details": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "timestamp": "2008-07-18T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "the_dark_knight.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Inception",
+        "details": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+        "timestamp": "2010-07-16T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "inception.jpg"
+    },
+    {
+        "id": 18,
+        "title": "The Matrix",
+        "details": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "timestamp": "1999-03-31T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "the_matrix.jpg"
+    },
+    {
+        "id": 19,
+        "title": "Fight Club",
+        "details": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "timestamp": "1999-10-15T05:00:00.000Z",
+        "solved": false,
+        "image_pointer": "fight_club.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Pulp Fiction",
+        "details": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "timestamp": "1994-10-14T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "pulp_fiction.jpg"
+    },
+    {
+        "id": 21,
+        "title": "The Dark Knight",
+        "details": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "timestamp": "2008-07-18T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "the_dark_knight.jpg"
+    },
+    {
+        "id": 22,
+        "title": "Inception",
+        "details": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+        "timestamp": "2010-07-16T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "inception.jpg"
+    },
+    {
+        "id": 23,
+        "title": "The Matrix",
+        "details": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "timestamp": "1999-03-31T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "the_matrix.jpg"
+    },
+    {
+        "id": 24,
+        "title": "Fight Club",
+        "details": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "timestamp": "1999-10-15T05:00:00.000Z",
+        "solved": false,
+        "image_pointer": "fight_club.jpg"
+    },
+    {
+        "id": 25,
+        "title": "Pulp Fiction",
+        "details": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "timestamp": "1994-10-14T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "pulp_fiction.jpg"
+    },
+    {
+        "id": 26,
+        "title": "The Dark Knight",
+        "details": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "timestamp": "2008-07-18T05:00:00.000Z",
+        "solved": true,
+        "image_pointer": "the_dark_knight.jpg"
+    }
+]
